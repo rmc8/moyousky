@@ -32,6 +32,9 @@
     <button type="submit">Greet</button>
   </form>
   <p>{greetMsg}</p>
+  <div>
+    <a href="/login">TEST LINK</a>
+  </div>
 </main>
 
 <style>
