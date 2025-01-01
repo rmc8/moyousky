@@ -9,6 +9,9 @@
     "core:default",
     "opener:default",
     "sql:default",
-    "store:default"
+    "store:default",
+    "clipboard-manager:default",
+    "fs:default",
+    "notification:default"
   ]
 }
