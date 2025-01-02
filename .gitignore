@@ -1,3 +1,5 @@
+./src-tauri/gen
+
 # Created by https://www.toptal.com/developers/gitignore/api/macos,linux,node,rust,svelte
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,linux,node,rust,svelte
 
