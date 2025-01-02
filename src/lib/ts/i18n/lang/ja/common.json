@@ -1,0 +1,9 @@
+{
+    "login": {
+        "service": "サービス",
+        "handle": "ハンドル",
+        "password": "パスワード",
+        "submit": "ログイン",
+        "logging_in": "ログイン中..."
+    }
+}

@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Sawarabi Gothic";
+    src: local("Sawarabi Gothic"),
+        url("/font/SawarabiGothic-Regular.ttf") format("truetype");
+    font-display: swap;
+}
+
+html {
+    font-family: "Sawarabi Gothic", Inter, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    color: #0f0f0f;
+}

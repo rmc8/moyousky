@@ -1,0 +1,9 @@
+{
+    "login": {
+        "service": "Service",
+        "handle": "Handle",
+        "password": "Password",
+        "submit": "Login",
+        "logging_in": "Logging in..."
+    }
+}
